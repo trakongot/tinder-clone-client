@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Readex+Pro:wght@200;300;400;500;600;700&family=Source+Sans+3:wght@600&display=swap');
+
+* {
+      font-family: 'Readex Pro', sans-serif;
+}
+
+/* reset.css */
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+      box-sizing: border-box;
+}
+
+/* Remove default margin */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+dl,
+figure,
+blockquote,
+fieldset,
+legend {
+      margin : 0;
+      padding: 0;
+}
+
+/* Set default font family and size */
+body {
+      font-family: sans-serif;
+      font-size  : 16px;
+}
+
+/* Remove list styles */
+ul,
+ol {
+      list-style: none;
+}
+
+/* Remove default hyperlink styles */
+a {
+      text-decoration: none;
+      color          : inherit;
+}
+
+/* Remove default button styles */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+      border    : none;
+      background: none;
+      cursor    : pointer;
+}
+
+/* Set images to be responsive by default */
+img {
+      max-width: 100%;
+      height   : auto;
+}
+
+/* config */
+body {
+      font-family: 'Roboto', sans-serif;
+}
