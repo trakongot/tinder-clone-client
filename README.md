@@ -1,7 +1,5 @@
-# Tinder Clone
-
-Clone Tinder - một ứng dụng xã hội giao diện đẹp mắt, được thiết kế để tạo ra trải nghiệm kết nối mới mẻ giữa các cá nhân.
-
+# Tinder Clone Client
+Link Admin + Sever: https://github.com/trakongot/sever_tinder_clone
 ## Screenshots
 
 1. **Login Screen:**
