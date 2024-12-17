@@ -10,27 +10,27 @@ Link Admin + Sever: https://github.com/trakongot/sever_tinder_clone
    ![Imgur](https://i.imgur.com/KutBzuU.png)
 4. **Settings:**
    - Edit Profile:
-     ![Imgur](https://i.imgur.com/OpjRaTP)
+     ![Imgur](https://i.imgur.com/OpjRaTP.png)
    - Upload Photo From File:
-     ![Imgur](https://i.imgur.com/eWDdIBC)
+     ![Imgur](https://i.imgur.com/eWDdIBC.png)
    - Upload Photo From Screenshot:
-     ![Imgur](https://i.imgur.com/l2tubF6)
+     ![Imgur](https://i.imgur.com/l2tubF6.png)
    - Edit Uploaded Photo:
-     ![Imgur](https://i.imgur.com/uSLILDs)
+     ![Imgur](https://i.imgur.com/uSLILDs.png)
    - Add Languages:
-     ![Imgur](https://i.imgur.com/6GQ95pS)
+     ![Imgur](https://i.imgur.com/6GQ95pS.png)
    - Update Profile:
-     ![Imgur](https://i.imgur.com/i1VlUsv)
+     ![Imgur](https://i.imgur.com/i1VlUsv.png)
    - Select Sexual Orientation:
-     ![Imgur](https://i.imgur.com/pv4bJ3e)
+     ![Imgur](https://i.imgur.com/pv4bJ3e.png)
 5. **Initiate Call:**
-   ![Imgur](https://i.imgur.com/8nTPXlv)
+   ![Imgur](https://i.imgur.com/8nTPXlv.png)
 6. **Video Call:**
-   ![Imgur](https://i.imgur.com/TRVEQnA)
+   ![Imgur](https://i.imgur.com/TRVEQnA.png)
 7. **Admin Panel:**
-   ![Imgur](https://i.imgur.com/a/V0N1Y8G)
+   ![Imgur](https://i.imgur.com/a/V0N1Y8G.png)
 8. **Admin Panel:**
-   ![Imgur](https://i.imgur.com/a/uD4eADi)
+   ![Imgur](https://i.imgur.com/a/uD4eADi.png)
 9. **Database:**
    ![Imgur](https://i.imgur.com/T575hUz.jpg)
 10. **Sever:**
